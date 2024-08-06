@@ -1,3 +1,9 @@
 body {
-    background-color: bisque;
+    background-color: bisque;  
+}
+P {
+    color: blue;
+}
+h1 {
+font size: 90px;
 }
